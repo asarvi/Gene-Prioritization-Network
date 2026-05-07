@@ -149,6 +149,3 @@ The pipeline produces:
 
 ---
 
-# Dependencies
-
-The project relies on common scientific Python libraries:
